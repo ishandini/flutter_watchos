@@ -1,4 +1,4 @@
-# third_watch
+# Flutter WatchOS App
 
 A new Flutter project.
 
